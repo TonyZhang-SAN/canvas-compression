@@ -1,0 +1,22 @@
+{
+  "name": "canvas-compression",
+  "version": "1.0.0",
+  "description": "前端图片压缩上传",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyZhang-SAN/canvas-compression.git"
+  },
+  "keywords": [
+    "图片压缩"
+  ],
+  "author": "zhangyukuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyZhang-SAN/canvas-compression/issues"
+  },
+  "homepage": "https://github.com/TonyZhang-SAN/canvas-compression#readme"
+}
